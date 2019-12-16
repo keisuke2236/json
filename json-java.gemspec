@@ -8,9 +8,8 @@ spec = Gem::Specification.new do |s|
   s.description = "A JSON implementation as a JRuby extension."
   s.author = "Daniel Luz"
   s.email = "dev+ruby@mernen.com"
-  s.homepage = "http://json-jruby.rubyforge.org/"
+  s.homepage = "http://flori.github.com/json"
   s.platform = 'java'
-  s.rubyforge_project = "json-jruby"
   s.licenses = ["Ruby"]
 
   s.files = Dir["{docs,lib,tests}/**/*"]
